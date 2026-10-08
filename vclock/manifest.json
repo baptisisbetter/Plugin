@@ -1,0 +1,7 @@
+{
+    "name": "VCLock",
+    "description": "Locks you to a VC channel. Restart app to leave.",
+    "version": "2.1.0",
+    "authors": [{ "name": "dj" }],
+    "main": "index.js"
+}
